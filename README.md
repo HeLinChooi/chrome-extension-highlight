@@ -1,5 +1,7 @@
 # Text Highlighter Chrome Extension
 
+> **This repository is archived.** Text Highlighter now lives in [chrome-extensions/highlight](https://github.com/HeLinChooi/chrome-extensions/tree/main/highlight), together with my other Chrome extensions. Its full commit history moved there too.
+
 A simple Chrome extension that allows you to highlight text on any webpage with a persistent yellow highlight that saves across browser sessions.
 
 ## Features
